@@ -23,10 +23,10 @@ pip install manim
 ```bash
 manim -pql your_animation_script.py YourSceneName
 ```
--`-p` 自动打开视频播放器预览结果。
--`-q` 设置渲染质量（可选参数：l 低, m 中等, h 高, p 生产）。
--`your_animation_script.py` 是包含场景的 Python 脚本文件名。
--`YourSceneName` 是您想渲染的具体场景名称。
+- `-p` 自动打开视频播放器预览结果。
+- `-q` 设置渲染质量（可选参数：l 低, m 中等, h 高, p 生产）。
+- `your_animation_script.py` 是包含场景的 Python 脚本文件名。
+- `YourSceneName` 是您想渲染的具体场景名称。
 
 ## 项目结构
 ```
